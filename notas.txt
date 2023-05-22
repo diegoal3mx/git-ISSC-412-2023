@@ -28,3 +28,6 @@ Comandos:
   Sincroniza la rama local con lo que hay en la remota, descarga los commits que hay en la rama remota y faltan en la local
   Ej. git pull
 
+
+ Ramas:
+  Las ramas nos permiten trabajar cob el repositorio sin alterar la estabilidad de la rama principal. Como cualquier otra rama hay una local y una remota. Las ramas parten de un commit de origen.
