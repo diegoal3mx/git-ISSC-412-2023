@@ -29,5 +29,5 @@ Comandos:
   Ej. git pull
 
 
-  Ramas:
-  TODO: Agregar definición de ramaa
+ Ramas:
+  Las ramas nos permiten trabajar cob el repositorio sin alterar la estabilidad de la rama principal. Como cualquier otra rama hay una local y una remota. Las ramas parten de un commit de origen.
